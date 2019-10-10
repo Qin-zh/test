@@ -1,3 +1,9 @@
-.table,.td{
+table,td{
 	border:2px solid ;
+}
+table{
+	border-collapse: collapse;
+}
+td{
+	padding:5px;
 }
